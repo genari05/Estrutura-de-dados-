@@ -1,0 +1,3 @@
+Um modelo matemático simples, porém capaz de gerar comportamentos caóticos e imprevisíveis é
+a recorrência logística (logistic map). Imagine que desejamos criar uma equação para modelar o
+número de indivíduos de uma população de coelhos a partir de uma população inicial.
